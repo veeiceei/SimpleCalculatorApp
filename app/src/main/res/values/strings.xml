@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">calculatorapp</string>
+    <string name="calculator_input_hint">Enter</string>
+    <string name="calculator_clear_button">x</string>
+    <string name="calculator_divide_button">/</string>
+    <string name="calculator_multiply_button">*</string>
+    <string name="calculator_subtract_button">-</string>
+    <string name="calculator_seven_button">7</string>
+    <string name="calculator_eight_button">8</string>
+    <string name="calculator_nine_button">9</string>
+    <string name="calculator_equal_button">=</string>
+    <string name="calculator_four_button">=</string>
+</resources>
